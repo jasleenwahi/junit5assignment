@@ -50,7 +50,7 @@ public class PersonTest {
     }
 
 
-    // ensuring email should contain @.
+    // ensuring email should contain @ symbol.
     @Test
     public void emailTest_testing_setter_getter_for_email_test2(){
         person.setEmail("jasleenkaur556677@gmail.com");

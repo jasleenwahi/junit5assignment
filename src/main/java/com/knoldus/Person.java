@@ -34,7 +34,7 @@ public class Person
         return email;
     }
 
-    // setter for email.
+    // setter for emails.
     public void setEmail(String email) {
         this.email = email;
     }
